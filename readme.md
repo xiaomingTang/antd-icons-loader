@@ -9,7 +9,7 @@ module.exports = {
   resolve: {
     alias: {
       // .antd-icons需要放到src目录下
-      "@ant-design/icons/lib/dist$": "path/to/your/.antd-icons"),
+      "@ant-design/icons/lib/dist$": "path/to/your/.antd-icons",
     }
   },
   module: {
