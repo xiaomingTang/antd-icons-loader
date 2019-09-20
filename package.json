@@ -19,5 +19,9 @@
     "tang-base-node-utils": "^1.0.0"
   },
   "devDependencies": {},
-  "description": ""
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:xiaomingTang/antd-icons-loader.git"
+  }
 }
