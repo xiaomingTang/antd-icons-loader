@@ -41,8 +41,10 @@ module.exports = {
 }
 ```
 
-``` json
-// .antd-icons
+``` js
+// .antd-icons文件
+// !!! 此处仅为示例, 实际文件中不得含有注释, 应为标准的json格式, 内容会被 JSON.parse 解析
+
 // 图标可能有三种风格: "outline", "fill", "twotone"
 {
   "info": true, // 为 true 则引入三种风格(如果有); "info" 只有 "outline" 风格, 则只会引入 "outline" 风格
