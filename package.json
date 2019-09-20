@@ -19,7 +19,7 @@
     "tang-base-node-utils": "^1.0.0"
   },
   "devDependencies": {},
-  "description": "",
+  "description": "webpack loader, 用于antd图标的按需加载",
   "repository": {
     "type": "git",
     "url": "git@github.com:xiaomingTang/antd-icons-loader.git"
